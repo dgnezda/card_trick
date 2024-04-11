@@ -3,7 +3,10 @@
 A CLI card trick, made with C++. Pick a card, and computer will guess which
 card you picked!
 
-To run on mac:
+To play, clone the repository, then navigate to folder that containts
+the repository in your terminal/bash. 
+
+Type this command in terminal to run on mac:
 ```bash
 ./a.out
 ```
